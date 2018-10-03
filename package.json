@@ -1,0 +1,22 @@
+{
+  "name": "week08",
+  "version": "1.0.0",
+  "description": "prufaJS",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thornystefans/ClassExercise02.git"
+  },
+  "author": "thorny",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thornystefans/ClassExercise02/issues"
+  },
+  "homepage": "https://github.com/thornystefans/ClassExercise02#readme",
+  "devDependencies": {
+    "jest": "^23.6.0"
+  }
+}
